@@ -1,7 +1,7 @@
 <h1 align="center">Awesome Hedera</h1>
 <div align="center"><img src="img/hedera.png" /></div>
 <div align="center">
-  <strong>An curated list of awesome things about <a href="https://hedera.com/">Hedera</a></strong>
+  <strong>A curated list of awesome things about <a href="https://hedera.com/">Hedera</a></strong>
 </div>
 
 Table of Contents
@@ -18,6 +18,8 @@ Table of Contents
 ### Explorers
 - [Kabuto](https://explorer.kabuto.sh/mainnet)
 - [DragonGlass](https://app.dragonglass.me/hedera/home)
+- [hash-hash.info](https://hash-hash.info/)
+- [HashLog](https://ledger.hashlog.io/)
 
 
 ### Tutorials
@@ -29,6 +31,10 @@ Table of Contents
 - [Python](https://github.com/wensheng/hedera-sdk-py)
 
 ### Wallets
+- [BitGo](https://www.bitgo.com/)
+- [Exodus](https://www.exodus.com/hedera-wallet)
+- [Guarda](https://guarda.com/)
+- [MyHbarWallet](https://myhbarwallet.com/)
 
 ### Services
 
