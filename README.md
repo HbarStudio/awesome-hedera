@@ -31,10 +31,11 @@ Table of Contents
 - [Python](https://github.com/wensheng/hedera-sdk-py)
 
 ### Wallets
-- [BitGo](https://www.bitgo.com/)
-- [Exodus](https://www.exodus.com/hedera-wallet)
-- [Guarda](https://guarda.com/)
-- [MyHbarWallet](https://myhbarwallet.com/)
+- [Exodus](https://www.exodus.com/hedera-wallet) (Android/IOS/Desktop)
+- [Guarda](https://guarda.com/) (Android/IOS/Desktop/Web)
+- [MyHbarWallet](https://myhbarwallet.com/) (Web)
+- [HashPack](https://www.hashpack.app/) (Chrome)
+- [Xact](https://wallet.xact.ac/) (Android/IOS)
 
 ### Services
 
