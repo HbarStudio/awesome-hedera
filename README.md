@@ -16,10 +16,11 @@ Table of Contents
 - [Videos](#videos)
 
 ### Explorers
-- [Kabuto](https://explorer.kabuto.sh/mainnet)
+- [HashScan](https://hashscan.io/)
 - [DragonGlass](https://app.dragonglass.me/hedera/home)
-- [hash-hash.info](https://hash-hash.info/)
 - [HashLog](https://ledger.hashlog.io/)
+- ~~[hash-hash.info](https://hash-hash.info/)~~ (shutdown?)
+- ~~[Kabuto](https://explorer.kabuto.sh/mainnet)~~ (discontinued)
 
 
 ### Tutorials
